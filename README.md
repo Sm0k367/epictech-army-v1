@@ -1,5 +1,14 @@
 # ⚡️ Epic Tech AI Agent Army ⚡️
 
+[![Vercel Deploy](https://vercel.com/button)](https://vercel.com/new/project?template=Sm0k367/epictech-army-v1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-00F6FF?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-spectralmagenta?style=flat-square)](CONTRIBUTING.md)
+[![GitHub issues](https://img.shields.io/github/issues/Sm0k367/epictech-army-v1.svg?color=spectralmagenta)](https://github.com/Sm0k367/epictech-army-v1/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Sm0k367/epictech-army-v1.svg?color=00F6FF)](https://github.com/Sm0k367/epictech-army-v1/network)
+[![GitHub stars](https://img.shields.io/github/stars/Sm0k367/epictech-army-v1.svg?color=FA28FF)](https://github.com/Sm0k367/epictech-army-v1/stargazers)
+
+---
+
 > **Mission Control for the Impossible**
 > Living, open-source creative engine — unleash inventions, remix reality.
 
@@ -62,3 +71,4 @@ Discuss or request on Issues — or fork and go nuts.
 
 ⚡️ Built and Deployed by Epic Tech AI ⚡️
 Find us on X/Twitter @EpicTechAI
+
