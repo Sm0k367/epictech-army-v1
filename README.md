@@ -72,3 +72,14 @@ Discuss or request on Issues — or fork and go nuts.
 ⚡️ Built and Deployed by Epic Tech AI ⚡️
 Find us on X/Twitter @EpicTechAI
 
+---
+
+## ❤️ Support & Sponsor
+
+If you love this project or use it in your own builds,
+consider [sponsoring on GitHub](https://github.com/sponsors/Sm0k367)
+or sending one-off support via [Stripe](https://buy.stripe.com/3cI8wQgj74LI592cDM)
+
+[![Sponsor this project](https://img.shields.io/badge/Sponsor-Epic_Tech_AI-FA28FF?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/Sm0k367)
+
+---
