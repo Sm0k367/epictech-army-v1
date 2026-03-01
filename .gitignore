@@ -22,7 +22,7 @@ pnpm-debug.log*
 # vercel
 .vercel
 
-# vscode, editor configs
+# editor configs
 .vscode
 .idea
 *.sublime-project
